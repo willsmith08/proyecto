@@ -1,2 +1,7 @@
 Hola, mi nombre es Will Smith
 tengo 19 años y me gusta el futbol
+
+-Mis hobbit's son:
+   -Dormir
+   -Andar en bicicleta
+   -Practicar lo aprendido en formacion 
